@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Rentateam Test</string>
+    <string name="menu_about">О приложении</string>
+    <string name="menu_users">Пользователи</string>
+    <string name="user_full_name">%1$s %2$s</string>
+    <string name="user_email">Email: %1$s</string>
+    <string name="about_text">Данное приложение создано в рамках тестового задания для компании Rentateam</string>
+    <string name="my_full_name">Имя кандидата: Скородумов Сергей</string>
+    <string name="my_email">Email: Skorik666@gmail.com</string>
+    <string name="my_head_hunter">HeadHunter: https://hh.ru/resume/92060f64ff08d409830039ed1f6e4639385672</string>
+    <string name="network_error">Ошибка сети, попробуйте позже</string>
+    <string name="empty_data">Новых польоватлей нет, попробуйте позже</string>
+</resources>
